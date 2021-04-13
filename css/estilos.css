@@ -1,0 +1,1437 @@
+/*correccion pagina 1*/
+.primerbarra{
+  background-color: rgb(89,89,91);
+  position: relative;
+  width: 101.4%;
+  height: 100px;
+}
+.primercosa{
+  background-color: rgb(255,74,0);
+  position: relative;
+  align-items: center;
+  display: flex;
+  width: 65%;
+  height: 60px;
+  margin: 20px;
+}
+.segundacosa{
+  background-color: white;
+  position: relative;
+  width: 90%;
+  height: 45px;
+  margin: 30px;
+}
+.tercercosa{
+  background-color: white;
+  position: relative;
+  width: 90%;
+  height: 45px;
+  margin: 30px;
+}
+.cuartacosa{
+  background-color: rgb(230,163,50);
+  position: relative;
+  width: 90%;
+  height: 45px;
+  margin: 30px;
+}
+.grayfondo{
+  background-color: #414143;
+  height: 100vh;
+  width: 120%;
+}
+.cuadradoone{
+  background-color: rgb(255,74,0);
+  width: 35%;
+  height: 200px;
+  margin: 30px;
+}
+.pol{
+  text-align: left;
+  margin-left: 28px;
+}
+.cuadradotwo{
+  background-color: #e6a233;
+  width: 25%;
+  height: 200px;
+  margin: 30px;
+}
+.fondogray{
+  background-color: #6d6e72;
+  width: 95%;
+  height: 100vh;
+}
+/*pagina 2*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.padre2{
+  background-color: rgb(89,89,91);
+  position: relative;
+  width: 101.5%;
+  height: 300px;
+}
+.cuadroamarillo{
+  background-color: rgb(230,163,50);
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+}
+.parrafo{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+ }
+ .cajagris{
+  background-color: rgb(65,64,69);
+  position: relative;
+  width: 100vh;
+  height: 400px;
+  margin-top: 50px;
+}
+.cajagris2{
+  background-color: rgb(65,65,67);
+  right: 5vh;
+  width: 30%;
+  height: 1000px;
+  position: absolute;
+}
+.cuadrorojo1{
+  background-color: rgb(196,31,62);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+} 
+.cuadrorojo2{
+  background-color: rgb(236,28,35);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+}
+.cuadrorojo3{
+  background-color: rgb(204,31,40);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+}  
+.subti1{
+  left: 150px;
+  position: absolute;
+}
+.text1{
+  top: 40px;
+  left: 150px;
+  position: absolute;
+}
+.cuadrorojo4{
+  background-color: rgb(241,90,80);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+} 
+.textone{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+
+}
+.textosub{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+}
+.rectangorangi{
+  background-color: rgb(89,89,81);
+  display: flex;
+  width: 100%;
+  height: 10em;
+}
+/*Pagina 3*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.padre3{
+  background-color: rgb(89,89,91);
+  position: relative;
+  width: 101.7%;
+  height: 100px;
+}
+.barra4{
+  background-color: white;
+  position: absolute;
+  width: 15vh;
+  height: 40px;
+  margin: 30px;
+  border: 10px;
+}
+.barra5{
+  background-color: gray;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+  margin: 30px;
+  left: 1030px;
+}
+.barra6{
+  background-color: gray;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+  margin: 30px;
+  left: 1110px;
+}
+.barra7{
+  background-color: white;
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  margin: 30px;
+  left: 1190px;
+}
+.barra8{
+  background-color: orange;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+  margin: 30px;
+  left: 1450px;
+}
+.cuadroytexto{
+  background-color: rgb(194,32,64);
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: 50px;
+}
+.parrafo3{
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5px;
+} 
+.titu32{
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5px;
+} 
+.cuadrogris1{
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 75em;
+  height: 50vh;
+  margin: 50px;
+}
+ .parrafocaja{
+  display: flex;
+  justify-content: center;
+ }
+ .rectangorangn{
+  position: relative;
+  right: 60px;
+  background-color: rgb(65,65,67);
+  display: flex;
+  width: 100%;
+  height: 5em;
+}
+ .rectangorangm{
+  position: relative;
+  right: 60px;
+  background-color: rgb(87,89,91);
+  display: flex;
+  width: 100%;
+  height: 5em;
+}
+ .rectangorangb{
+  position: relative;
+  right: 60px;
+  background-color: rgb(112,111,116);
+  display: flex;
+  width: 100%;
+  height: 5em;
+}
+/*Pagina 4*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.texto{
+  font-size: 14px;
+}
+.tituloo{
+  font-size: 20px;
+}
+.cuadrogranderojo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(196,31,62);
+  width: 100%;
+  height: 65vh;
+  margin: 15px;
+  padding: 10px;
+}
+.triangle1{
+  width: 0; 
+  height: 0; 
+  border-left: 88px solid white;
+  border-top: 65px solid transparent;
+  border-bottom: 65px solid transparent;
+}
+
+/*pagina 5*/
+
+  box-sizing: border-box;{
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+header{
+    background-color: #404042;
+    width: 100%;
+    /* define altura de pantalla*/
+    height: 50vh;
+}
+.distribucion{
+    display: flex;
+}
+.cajaroja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c21d3d;
+    width: 100%;
+    height: 45vh;
+    margin: 15px;
+    padding: 10px;
+}
+.triangle{
+     width: 0; 
+     height: 0; 
+     border-left: 78px solid white;
+     border-top: 45px solid transparent;
+     border-bottom: 45px solid transparent;
+ }
+ h1{
+     color: white;
+     text-align: center;
+
+ }
+ p{
+     color: white;
+ }
+ .cajaparrafo{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     padding: 30px;
+ }
+ .rectangorange{
+     background-color: orange;
+     display: flex;
+     width: 100%;
+     height: 10em;
+ }
+ .cajader{
+     background-color: #404042;
+ }
+ h2{
+     color: white;
+ }
+
+ /*pagina 6*/
+ 
+  box-sizing: border-box;{
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.distribucion2{
+  background-color:rgb(89,89,91);
+  display:flex;
+  align-items: center;
+  height: 5em;
+}
+.cuadrogris{
+  background-color:gray;
+  width:100%;
+  height:60%;
+  padding: 10px;
+}
+.cuadroblanco{
+  background-color:white;
+  width: 100%;
+  height: 60%;
+  padding: 10px;
+}
+.cuadrorange{
+  background-color: orange;
+  width:100%;
+  height:60%;
+  padding: 10px;
+}
+.asd{
+  background-color: #2b2b2d;
+  display: flex;
+  height: 70vh;
+}
+.oraange{
+  background-color: orange;
+  color:white;
+}
+.carousel-item2{
+ background-color: rgb(65,65,67);
+  position: relative;
+  width: 75em;
+  height: 70vh;
+}
+.k{
+  position: relative;
+  right: 60px;
+  background-color: orange;
+  display: flex;
+  width: 100%;
+  height: 10em;
+}
+.l{
+  position: relative;
+  right: 60px;
+}
+.p{
+  background-color: rgb(44,44,46);
+}
+
+
+ /*Pagina 7*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.cuadrograngriss{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  width: 100%;
+  height: 65vh;
+  margin: 15px;
+  padding: 10px;
+}
+.cuadroblancoo{
+  background-color:white;
+  width: 50vh;
+  height: 8%;
+}
+.cuadroamarilloo{
+  background-color: rgb(230,163,50);
+  position: relative;
+  left: 30px;
+  width: 250px;
+  height: 250px;
+  margin-top: 25px;
+}
+.parrafo8{
+ display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 15px;
+}
+.cuadrogrisop{
+  margin: 25px;
+  margin-left: 100px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.po{
+  margin-top: 15px;
+  font-size: 80%;
+}
+.qaz2{
+  margin-left: 30px;
+}
+
+/*Pagina 8*/
+
+.cuadrograngrisss{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  width: 100%;
+  height: 60vh;
+  margin: 15px;
+  padding: 10px;
+}
+.cuadritochiqui{
+  margin-right: 300px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 50px;
+  height: 50px;
+  margin-top: 500px;
+}
+.cuadritochiqui2{
+  margin-left: 100px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.cuadritochiqui3{
+  margin-left: 100px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.cuadritochiqui4{
+  margin-left: 100px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.naranjaa{
+  color: orange
+}
+.cuadritochiquito{
+  margin: 20px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadritochiquito1{ 
+  margin: 20px;
+  background-color: rgb(87,89,91);
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadritochiquito2{
+  margin: 20px;
+  background-color: rgb(108,110,114);
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.parrafoo{
+  margin-top: 150px;
+}
+.alineacion{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alineacion2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cuadritochiquito3{
+  margin: 20px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadritochiquito4{ 
+  margin: 20px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadritochiquito5{
+  margin: 20px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+/*Pagina 9 */
+.naranjaa2{
+  color: orange;
+  text-align: left;
+}
+.pñgris{
+  margin: 20px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+.grislargo{
+  margin: 20px;
+  background-color: rgb(44,44,46);
+  position: relative;
+  width: 80%;
+  height: 150px;
+}
+.tituliyos{
+  color: orange;
+}
+
+/*ANIMACIONES*/
+
+/*Pagina 1*/
+.animacion1{
+  animation: backInLeft; 
+  animation-duration: 3s;
+}
+.animacion2{
+  
+  animation: backInRight; 
+  animation-duration: 3s;
+  animation-delay: 3s;
+}
+.animacion3{
+  
+  animation: backInUp; 
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion4{
+  
+  animation: backInDown; 
+  animation-duration: 3s;
+  animation-delay: 9s;
+}
+.animacion5{
+  
+  animation: backInUp; 
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion6{
+  
+  animation: backInDown; 
+  animation-duration: 3s;
+  animation-delay: 15s;
+}
+.animacion7{
+  
+  animation: fadeInBottomLeft;
+  margin-left: 150px; 
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion8{
+  animation: flip;
+  animation-duration: 3s;
+  animation-delay: 21s;
+}
+.animacion9{
+  animation: rollIn;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion10{
+  animation: rotateInUpRight;
+  animation-duration: 3s;
+  animation-delay: 27s;
+}
+.animacion11{
+  
+  animation: flip;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion12{
+  
+  animation: rollIn;
+  animation-duration: 3s;
+  animation-delay: 33s;
+}
+.animacion13{
+  
+  animation: rotateInUpRight;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion14{
+  
+  animation: fadeInDown;
+  animation-duration: 3s;
+  animation-delay: 39s;
+}
+.animacion15{
+  
+  animation: zoomInDown;
+  animation-duration: 3s;
+  animation-delay: 42s;
+}
+.animacion16{
+ 
+  animation: zoomInLeft;
+  animation-duration: 3s;
+  animation-delay: 45s;
+}
+.animacion17{
+
+  animation: zoomInDown;
+  animation-duration: 3s;
+  animation-delay: 48s;
+}
+.animacion18{
+ 
+  animation: zoomInLeft;
+  animation-duration: 3s;
+  animation-delay: 51s;
+}
+.animacion19{
+ 
+  animation: zoomInDown;
+  animation-duration: 3s;
+  animation-delay: 54s;
+}
+.animacion20{
+
+  animation: zoomInLeft;
+  animation-duration: 3s;
+  animation-delay: 57s;
+}
+.animacion21{
+  
+  animation: zoomInDown;
+  animation-duration: 3s;
+  animation-delay: 60s;
+}
+.animacion22{
+  
+  animation: zoomInLeft;
+  animation-duration: 3s;
+  animation-delay: 63s;
+}
+
+/*Pagina 2*/
+
+.animacion23{
+  animation: rubberBand; 
+  animation-duration: 3s;
+  animation-delay: 2s;
+ }
+.animacion24{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion25{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion26{
+  animation: bounceInRight; 
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion27{
+  animation: backInLeft; 
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion28{
+  animation: bounceInLeft; 
+  animation-duration: 3s;
+  animation-delay: 12s;
+
+}
+.animacion29{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion30{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion31{
+  animation: bounceInLeft; 
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion32{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion33{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion34{
+  animation: bounceInLeft; 
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion35{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion36{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion37{
+  animation: backInRight; 
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion37{
+  animation: bounceInLeft; 
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion38{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion39{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion40{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
+.animacion41{
+  animation: bounceInLeft; 
+  animation-duration: 3s;
+  animation-delay: 40s;
+}
+.animacion42{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 42s;
+}
+.animacion43{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 44s;
+}
+.animacion44{
+  animation: bounceInLeft; 
+  animation-duration: 3s;
+  animation-delay: 46s;
+}
+.animacion45{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 48s;
+}
+.animacion46{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 50s;
+}
+.animacion47{
+  animation: bounceInLeft; 
+  animation-duration: 3s;
+  animation-delay: 52s;
+}
+.animacion48{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 54s;
+}
+.animacion49{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 56s;
+}
+.animacion50{
+  animation: bounceInLeft; 
+  animation-duration: 3s;
+  animation-delay: 58s;
+}
+.animacion51{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 60s;
+}
+.animacion52{
+  animation: tada; 
+  animation-duration: 3s;
+  animation-delay: 62s;
+}
+
+
+/*Pagina 3*/
+.animacion2
+{
+  animation: backInRight;
+  animation-duration: 2s;
+  animation-delay: 3s;
+}
+.animacion53
+{
+  animation: rubberBand;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion54{
+  animation: swing;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion55{
+  animation: backInDown;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion56{
+  animation: backInRight;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion57{
+  animation: rubberBand;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion58{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion59{
+  animation: flipInX;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion60{
+  animation: rubberBand;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion61{
+  animation: flipInX;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion62{
+  animation: rotateInUpLeft;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion63{
+  animation: rotateInUpRight;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion64{
+  animation: fadeInLeftBig;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion65{
+  animation: fadeInRight;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion66{
+  animation: fadeInUp;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+
+/*Pagina 4*/
+
+.animacion67{
+  animation: fadeInUp;
+  animation-duration: 3s;
+  animation-delay: 3s;
+}
+.animacion68{
+  animation: fadeInUp;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion69{
+  animation: fadeInUp;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion70{
+  animation: fadeInUp;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion71{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion72{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion73{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion74{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion75{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion76{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+
+/*Pagina 5*/
+
+.animacion77{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 3s;
+}
+.animacion78{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion79{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion80{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion81{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion82{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion83{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion84{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion85{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion86{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion87{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion88{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion89{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion90{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion91{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion92{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion93{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion94{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion95{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
+
+/*Pagina 6*/
+
+.animacion95{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 3s;
+}
+.animacion96{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion97{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion98{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion99{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion100{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion101{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion102{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion103{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion104{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion105{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion106{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion107{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion108{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion109{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion110{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion111{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion112{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion113{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
+.animacion114{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 40s;
+}
+.animacion115{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 42s;
+}
+.animacion116{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 46s;
+}
+.animacion117{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 48s;
+}
+.animacion118{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 50s;
+}
+.animacion119{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 52s;
+}
+
+/*Pagina7*/
+
+.animacion120{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion121{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion123{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion124{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion125{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion126{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion127{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+
+/*Pagina8*/
+
+.animacion128{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion129{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion130{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion131{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion132{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion133{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion134{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion135{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion136{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion137{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion138{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion139{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
+
+/*Pagina9*/
+
+.animacion140{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 3s;
+}
+.animacion141{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion142{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion143{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion144{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion145{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion146{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion147{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion148{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion149{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion150{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion151{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion152{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion153{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion154{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion155{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
